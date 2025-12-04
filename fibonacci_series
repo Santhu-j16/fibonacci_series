@@ -8,4 +8,4 @@ for (let i=2; i<=n;i++){
 
 a=b;
 b=next;
-}
+};
