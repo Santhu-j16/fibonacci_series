@@ -7,7 +7,7 @@ for (let i=2; i<=n;i++){
     console.log(next);    
       
 a=b; 
-b=next;  
+b=next;   
 }  
   
  
